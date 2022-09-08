@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadCertificateFileName</key>
+			<string>DNSFilter Root CA</string>
+			<key>PayloadContent</key>
+			<data>
+			MIIB+zCCAYCgAwIBAgIJAOmnrpSmpkDHMAoGCCqGSM49BAMDMDAx
+			EjAQBgNVBAoMCUROU0ZpbHRlcjEaMBgGA1UEAwwRRE5TRmlsdGVy
+			IFJvb3QgQ0EwHhcNMTcxMTA5MjMyMDI5WhcNMzcxMTA0MjMyMDI5
+			WjAwMRIwEAYDVQQKDAlETlNGaWx0ZXIxGjAYBgNVBAMMEUROU0Zp
+			bHRlciBSb290IENBMHYwEAYHKoZIzj0CAQYFK4EEACIDYgAEOXmR
+			oYaUunupYevaDz3amvJJncDKx9q9xpWPSpUd9HmDMbTTJCXyjIwB
+			cfZvMkSTuoJ85PzI/OxbKTBL4Ju3xeyedZJoQDQC2kGdw2/7AAuE
+			J5qX/H8eTYgd/U0HZptLo2YwZDAdBgNVHQ4EFgQUOOmtJ8Qr1M4Q
+			4NlnTRQdhOJm7vUwHwYDVR0jBBgwFoAUOOmtJ8Qr1M4Q4NlnTRQd
+			hOJm7vUwEgYDVR0TAQH/BAgwBgEB/wIBADAOBgNVHQ8BAf8EBAMC
+			AYYwCgYIKoZIzj0EAwMDaQAwZgIxAP21roVYzTcLue2zEXkt6UGf
+			tv0OjitFCWV4/jWVIZg9jJd2y/RS58QTMPaWUSyInQIxAO8WYt/e
+			ZeLgEE82jBHtTCN1exKSEHwaLmwXlOXBY0b+7youkJRXvXtyitUJ
+			2HjvVw==
+			</data>
+			<key>PayloadDisplayName</key>
+			<string>Certificate Root</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.security.root.5A2907DD-63FE-4915-9A81-2A984613DE72</string>
+			<key>PayloadType</key>
+			<string>com.apple.security.root</string>
+			<key>PayloadUUID</key>
+			<string>5A2907DD-63FE-4915-9A81-2A984613DE72</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>DNSFilter Root Cert</string>
+	<key>PayloadIdentifier</key>
+	<string>com.dnsfilter.cert</string>
+	<key>PayloadOrganization</key>
+	<string>ZJP.Gazette</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>0E443698-85FE-48B6-A5C6-26ECA30D8A9D</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>TargetDeviceType</key>
+	<integer>0</integer>
+</dict>
+</plist>
